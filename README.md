@@ -5,4 +5,4 @@ An image is made of dots of many colors. Finding which colors are most frequentl
 
 ![screenshot](screenshot.jpg "overview. ...")  
 
-Please see the header of the libraries for copyright sources.
+Please see the header of the external libraries for copyright sources.
