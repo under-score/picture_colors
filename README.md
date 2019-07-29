@@ -10,4 +10,4 @@ The English vocabulary is based on http://chir.ag/projects/ntc/ and the German v
 
 ![screenshot](screenshot.jpg "overview. ...")  
 
-Please see the header of the external libraries for copyright sources.
+Please see the header of the library files for copyright sources.
