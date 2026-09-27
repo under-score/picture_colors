@@ -1,4 +1,4 @@
-# picturecolors
+# picture_colors
 
 list dominant picture colors and gives you a color grading recommendation for DxO 10
 
